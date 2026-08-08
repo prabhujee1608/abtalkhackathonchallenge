@@ -14,10 +14,16 @@ Quick start:
 npm install
 ```
 
-2. Run dev server:
+2. Build for production:
 
 ```bash
-npm run dev
+npm run build
+```
+
+3. Preview the production build locally:
+
+```bash
+npm run preview
 ```
 
 Notes:
